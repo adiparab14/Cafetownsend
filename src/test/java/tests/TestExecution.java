@@ -22,7 +22,6 @@ public class TestExecution {
     public void startBrowser() {
 
         WebDriverManager.chromedriver().setup();
-        //System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         driver = new ChromeDriver();
         //driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

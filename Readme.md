@@ -31,7 +31,7 @@ Following test cases have been executed
 
 
 ## Pre-requisites
-###For Windows OS
+### For Windows OS
 
 __Step 1:Install JDK and set Java home__
 
